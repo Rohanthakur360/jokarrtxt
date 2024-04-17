@@ -2,4 +2,4 @@ build:
   docker:
     worker: Dockerfile
 run:
-  worker: python3 Ankush/main.py
+  worker: python3 crazymind/main.py
